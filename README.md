@@ -33,7 +33,7 @@ support and for those that do NOT support modern CSS, like media queries. I am u
 
 ### Links
 
-- Live Site URL: https://
+- Live Site URL: https://promotional-email.pages.dev/
 
 ## My process
 
