@@ -29,7 +29,7 @@ support and for those that do NOT support modern CSS, like media queries. I am u
 
 ### Screenshot
 
-![](./images/READMEimg.png)
+![](./images/promotional-email-full.png)
 
 ### Links
 
