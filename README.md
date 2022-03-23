@@ -33,7 +33,7 @@ support and for those that do NOT support modern CSS, like media queries. I am u
 
 ### Links
 
-- Live Site URL: https://
+- Live Site URL: https://devannie-transactional-email.pages.dev/
 
 ## My process
 
@@ -43,7 +43,7 @@ support and for those that do NOT support modern CSS, like media queries. I am u
 - I coded the email follwing CSS2 specificaton, using tables, inline CSS and div/media queries for email clients that support them
 - Made it look as good as possible for dark mode
 - I used Desktop-first approach as that's the best practice for email development
-- I tested my email using Cloudflare
+- I tested my email using Email on Acid
 - I uploaded the email to the web via Cloudflare
 
 ### Built with
